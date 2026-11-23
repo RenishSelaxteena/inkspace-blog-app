@@ -1,6 +1,6 @@
 # InkSpace
 
-InkSpace is a full-stack editorial blogging application built with Next.js App Router, TypeScript, Tailwind CSS, PostgreSQL 17, Prisma, NextAuth Credentials, bcryptjs, Zod, and React Hook Form.
+InkSpace is a full-stack editorial blogging application built with Next.js App Router, TypeScript, CSS, PostgreSQL 17, Prisma, NextAuth Credentials, bcryptjs, Zod, and React Hook Form.
 
 It provides a space for readers to discover stories and for authenticated writers to create, publish, and manage their own content through a thoughtfully designed editorial interface.
 
@@ -301,3 +301,13 @@ The current project does not include:
 - Hosted database configuration.
 
 These are identified as future production-hardening tasks.
+
+
+## **Screenshots**
+
+<img width="959" height="438" alt="image" src="https://github.com/user-attachments/assets/e8234001-02cb-481f-825c-cf71e4064867" />
+<img width="959" height="442" alt="image" src="https://github.com/user-attachments/assets/0361c405-16c7-4928-9297-a35306150e8d" />
+<img width="959" height="437" alt="image" src="https://github.com/user-attachments/assets/e8919390-ea9a-4408-b3ad-3dff941101e8" />
+<img width="959" height="443" alt="image" src="https://github.com/user-attachments/assets/b69f838b-df00-45a0-99f3-755478bbd3e5" />
+<img width="950" height="438" alt="image" src="https://github.com/user-attachments/assets/0bb3215e-129f-48c0-99d6-4462d04e30ff" />
+
